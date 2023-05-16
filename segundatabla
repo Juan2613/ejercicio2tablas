@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ejercicio</title>
+</head>
+
+<body>
+<table>
+<tr>
+<td>Titulo</td>
+<td>Autor           </td>
+<td>Año de publicacion</td>
+<td>Enlace del libro</td>
+</tr>
+<tr>
+<td>El poder de la mente</td>
+<td>Neville Goddard   </td>
+<td>Año 1965</td>
+<td>https://www.amazon.com.mx/El-poder-tu-mente-subconsciente/dp/8496111768</td>
+
+
+
+</tr>
+<tr>
+    <td>Titulo</td>
+    <td>Autor           </td>
+    <td>Año de publicacion</td>
+    <td>Enlace del libro</td>
+    </tr>
+    <tr>
+    <td>Mi planta naranja Lima</td>
+    <td>Eduardo Sans   </td>
+    <td>Año 2002</td>
+    <td>https://www.amazon.com.mx/planta-naranja-lima-MAURO-VASCONCELOS/dp/849266343X    
+    </td>
+    
+    </tr>
+    
+
+
+
+
+
+</table>
+
+</body>
+<script>
+</script>
+</html>
